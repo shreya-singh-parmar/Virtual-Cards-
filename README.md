@@ -1,11 +1,24 @@
-# Getting Started with Create React App
+### `Click Here For Live Demo : ` 
+https://638c3ae8fc1d984948565e2f--thriving-flan-cff845.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### `Prerequisite`
+### `NodeJS and Create-React-App Installed on Your Local System.` 
+To Install NodeJS Please Refer : https://nodejs.org/en/download/
 
-## Available Scripts
+After Installing Node.js :- \
+Open Command Prompt(CMD) and Run The Following Command To Install Create-React-App :
+### `npm i create-react-app` or  `npm install create-react-app`
+If Any Problem Occurs Please Refer : https://www.npmjs.com/package/create-react-app/
 
-In the project directory, you can run:
+# Getting Started with Create-React-App
 
+First Download This Repository.
+
+Then, In the project directory, you can run:
+
+### `npm install` 
+
+To install Dependencies.(Mandatory Step)
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -30,7 +43,6 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
-
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
